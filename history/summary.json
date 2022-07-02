@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/timetastic.co.uk",
     "slug": "timetastic-website",
     "status": "up",
-    "uptime": "86.88%",
-    "uptimeDay": "86.88%",
-    "uptimeWeek": "86.88%",
-    "uptimeMonth": "86.88%",
-    "uptimeYear": "86.88%",
-    "time": 448,
-    "timeDay": 448,
-    "timeWeek": 448,
-    "timeMonth": 448,
-    "timeYear": 448,
+    "uptime": "96.57%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "96.57%",
+    "uptimeMonth": "96.57%",
+    "uptimeYear": "96.57%",
+    "time": 409,
+    "timeDay": 409,
+    "timeWeek": 409,
+    "timeMonth": 409,
+    "timeYear": 409,
     "dailyMinutesDown": {
-      "2022-07-01": 33
+      "2022-07-01": 19
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/app.timetastic.co.uk",
     "slug": "timetastic-app",
     "status": "up",
-    "uptime": "86.87%",
-    "uptimeDay": "86.87%",
-    "uptimeWeek": "86.87%",
-    "uptimeMonth": "86.87%",
-    "uptimeYear": "86.87%",
-    "time": 961,
-    "timeDay": 961,
-    "timeWeek": 961,
-    "timeMonth": 961,
-    "timeYear": 961,
+    "uptime": "96.56%",
+    "uptimeDay": "96.56%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "96.56%",
+    "uptimeYear": "96.56%",
+    "time": 1105,
+    "timeDay": 1105,
+    "timeWeek": 1105,
+    "timeMonth": 1105,
+    "timeYear": 1105,
     "dailyMinutesDown": {
-      "2022-07-01": 33
+      "2022-07-01": 19
     }
   }
 ]
